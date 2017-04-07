@@ -1,0 +1,49 @@
+.venue-button  {
+    height: 150px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.venue-button img {
+    width: 100%;
+}
+.venue-button.square-logo img {
+    width: 90%;
+    max-height: 133px;
+}
+.venue-detail {
+    margin-top: 60px;
+}
+.venue-detail .venue-logo {
+    text-align: center;
+    padding-top: 20px;
+}
+.venue-detail .venue-logo img {
+    max-width: 90%;
+}
+.venue-detail iframe {
+    margin: 0;
+    padding: 0;
+}
+
+/**** Leaderboard ****/
+.leaderboard-page {
+    margin-top: 80px;
+}
+.leaderboard-image {
+
+}
+.leaderboard-image img {
+    max-width: 100%;
+}
+.leaderboard-row {
+    border-bottom: 1px solid #999;
+}
+.leaderboard-row h5,
+.leaderboard-row h6 {
+    color: #999;
+}
+.leaderboard-row-1,
+.leaderboard-row-1 h5,
+.leaderboard-row-1 h6 {
+    color: #0f9d58!important;
+}

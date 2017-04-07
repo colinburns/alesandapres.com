@@ -1,0 +1,18 @@
+{
+	"name": "nathancox/minify",
+	"description": "Minifies CSS requirements using Minify (http://code.google.com/p/minify/)",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "minify"],
+	"authors": [
+		{
+			"name": "Nathan Cox",
+			"email": "me@nathan.net.nz"
+		}
+	],
+	"require": {
+		"silverstripe/framework": ">=3.1"
+	},
+	"extra": {
+		"installer-name": "minify"
+	}
+}

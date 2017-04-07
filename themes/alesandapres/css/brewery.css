@@ -1,0 +1,30 @@
+.offers .entry {
+    border-radius: 4px;
+}
+.brewery-button  {
+    height: 127px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.brewery-button img {
+    width: 100%;
+}
+.beer-button  {
+
+}
+.beer-button img {
+    max-height: 100px;
+}
+.beer-details strong {
+    font-weight: 900;
+}
+h6.rate-this-beer {
+    margin-top: 10px;
+}
+p.beer-star-rating i {
+    font-size: 30px;
+    margin-right: 10px;
+}
+p.beer-star-rating i.star-rating-complete {
+    color: #ffbd13;
+}
